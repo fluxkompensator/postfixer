@@ -6,6 +6,10 @@ I spent some time to get this running, and I will leave an Ära working on large
 So this for me seemed to be an good solution of viewing realtime traffic of postfix servers and also being able to make adjustments on the fly.
 I hope somebody can make some use if this, I will still continue the development, but future features are yet not planned.
 
+## Known bugs
+Docker setup is not yet fully tested
+I'm not a frontend developer so the app could have some security implications - run it only with a proxy in front to make sure no unauthorized access happens
+
 ## Features
 
 - Real-time monitoring of email requests
