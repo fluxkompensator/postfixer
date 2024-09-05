@@ -54,4 +54,10 @@ Key components:
    npm start
    ```
 
+Some screenshots
+![rules](https://github.com/user-attachments/assets/20ead41b-5345-4db5-99ff-f5810861da0d)
+![recent_reqs](https://github.com/user-attachments/assets/b7bfb8ff-551e-4888-8e26-a2e41933877b)
+![ratelimiter](https://github.com/user-attachments/assets/ea37b948-42e9-41cf-8630-d1837892cb0e)
+
+
 Happy filtering!
